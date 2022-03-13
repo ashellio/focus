@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Users\\Kalin.Ash\\github\\ashellio\\focus\\focus\\focus\\focus.csproj",
         "projectName": "focus",
         "projectPath": "C:\\Users\\Kalin.Ash\\github\\ashellio\\focus\\focus\\focus\\focus.csproj",
-        "packagesPath": "C:\\Users\\kalin.ash.z\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Kalin.Ash\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kalin.Ash\\github\\ashellio\\focus\\focus\\focus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kalin.ash.z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kalin.Ash\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
