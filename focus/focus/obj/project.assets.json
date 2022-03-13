@@ -208,7 +208,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kalin.Ash\\.nuget\\packages\\": {}
+    "C:\\Users\\kalin.ash.z\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -216,11 +216,11 @@
       "projectUniqueName": "C:\\Users\\Kalin.Ash\\github\\ashellio\\focus\\focus\\focus\\focus.csproj",
       "projectName": "focus",
       "projectPath": "C:\\Users\\Kalin.Ash\\github\\ashellio\\focus\\focus\\focus\\focus.csproj",
-      "packagesPath": "C:\\Users\\Kalin.Ash\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\kalin.ash.z\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Kalin.Ash\\github\\ashellio\\focus\\focus\\focus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kalin.Ash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kalin.ash.z\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
