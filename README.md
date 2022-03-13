@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# FocusApi
+
+## Development server
+Run `dotnet run` for a dev server. Navigate to `https://localhost:7053/swagger/index.html` for the swagger interface.
