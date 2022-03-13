@@ -12,12 +12,8 @@ export class Web3Component implements OnInit {
   constructor(private web3Service: Web3Service) { }
 
   ngOnInit(): void {
-    debugger
     this.web3Service.GetWeatherForecast().subscribe((results: any)=>{
-      
       console.log(results);
-      
     });
   }
-
 }
