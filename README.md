@@ -1,3 +1,5 @@
+![focus](https://github.com/user-attachments/assets/02b27aaf-9f40-4fb3-a099-c23a3cf5ea05)
+
 # FocusApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
@@ -30,9 +32,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Development server
 Run `dotnet run` for a dev server. Navigate to `https://localhost:7053/swagger/index.html` for the swagger interface.
-
-![focus](https://github.com/user-attachments/assets/02b27aaf-9f40-4fb3-a099-c23a3cf5ea05)
-
 
 ##Entity Framework
 For now we are just maintaining a single migration with some basic seeding. To update the migration/database:
