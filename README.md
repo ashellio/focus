@@ -1,4 +1,3 @@
-![focus](https://github.com/user-attachments/assets/02b27aaf-9f40-4fb3-a099-c23a3cf5ea05)
 ![focus](https://github.com/user-attachments/assets/a989dff6-fb48-46c7-a56f-fe46fd6c984f)
 
 # FocusApp
