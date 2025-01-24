@@ -33,7 +33,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Development server
 Run `dotnet run` for a dev server. Navigate to `https://localhost:7053/swagger/index.html` for the swagger interface.
 
-##Entity Framework
+## Entity Framework
 For now we are just maintaining a single migration with some basic seeding. To update the migration/database:
 1. Delete migration in solution.
 2. Delete database.
